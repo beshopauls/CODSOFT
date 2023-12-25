@@ -3,7 +3,7 @@
 #Task_1
 https://www.figma.com/file/nrhLbW6Wg2qoU3rkyBrbX3/SignUp-flow-Codsoft?type=design&node-id=0%3A1&mode=design&t=p6hzvT7rlmr8qCMF-1
 
-<img src="D:\Otlobny\internshipmenu1.jpg" width="100">
+<img src="D:\Otlobny\internship\menu1.jpg" width="100">
 
 
 #Task_2
