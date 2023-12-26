@@ -34,9 +34,11 @@ https://www.figma.com/file/s36S9oSpVUmx05h3ex3ma3/Menu?type=design&node-id=0%3A1
 #Task_4_E-commerce
 https://www.figma.com/file/tJ86lNuEWh9Gb6eTmFaoLh/Headphony-Website?type=design&node-id=1%3A2&mode=design&t=kVIs6r76zb3eq5hl-1
 
-<img src="https://github.com/beshopauls/CodSoft/assets/73366045/88fd2f6f-c724-4d65-b7b3-52dfd92832f4" >
+<img src="https://github.com/beshopauls/CodSoft/assets/73366045/d992d7b6-304a-40cd-995d-4deb29b0763e" >
+<img src="https://github.com/beshopauls/CodSoft/assets/73366045/c9d07e37-5c5a-41a3-ab95-8e1c584adbb6" >
+<img src="https://github.com/beshopauls/CodSoft/assets/73366045/05f5a573-d091-40e2-8954-11722bb7899d" >
 
 
-<img src="" >
+
 
 
