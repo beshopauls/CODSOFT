@@ -19,15 +19,24 @@ https://www.figma.com/file/nrhLbW6Wg2qoU3rkyBrbX3/SignUp-flow-Codsoft?type=desig
 <img src="https://github.com/beshopauls/CodSoft/assets/73366045/73030b22-28f7-407d-a3c8-f7c252c4cf4a" width="375" height="812" >
 <img src="https://github.com/beshopauls/CodSoft/assets/73366045/db3e9504-001a-4c93-b4be-98079342fb81" width="375" height="812" >
 
-#Task_2
+#Task_2_Email_Template
 https://www.figma.com/file/QEANDxrdAq3MgMI0Ryj57u/Email-Template?type=design&node-id=0%3A1&mode=design&t=3t7LN7DinYQAMPwn-1
 
 <img src="https://github.com/beshopauls/CodSoft/assets/73366045/ba79b335-318f-4491-b2af-c656f8397dea">
 
-
-
-#Task_3
+#Task_3_Menu
 https://www.figma.com/file/s36S9oSpVUmx05h3ex3ma3/Menu?type=design&node-id=0%3A1&mode=design&t=so20P02KBR2QSWrM-1
 
 <img src="https://github.com/beshopauls/CodSoft/assets/73366045/2bbd8abf-f685-489a-98d8-64ae8c2aa555" width="375" height="812" >
 <img src="https://github.com/beshopauls/CodSoft/assets/73366045/88fd2f6f-c724-4d65-b7b3-52dfd92832f4" width="375" height="812" >
+
+
+#Task_4_E-commerce
+https://www.figma.com/file/tJ86lNuEWh9Gb6eTmFaoLh/Headphony-Website?type=design&node-id=1%3A2&mode=design&t=kVIs6r76zb3eq5hl-1
+
+<img src="https://github.com/beshopauls/CodSoft/assets/73366045/88fd2f6f-c724-4d65-b7b3-52dfd92832f4" >
+
+
+<img src="" >
+
+
