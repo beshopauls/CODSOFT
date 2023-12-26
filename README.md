@@ -22,11 +22,8 @@ https://www.figma.com/file/nrhLbW6Wg2qoU3rkyBrbX3/SignUp-flow-Codsoft?type=desig
 #Task_2
 https://www.figma.com/file/QEANDxrdAq3MgMI0Ryj57u/Email-Template?type=design&node-id=0%3A1&mode=design&t=3t7LN7DinYQAMPwn-1
 
+<img src="https://github.com/beshopauls/CodSoft/assets/73366045/ba79b335-318f-4491-b2af-c656f8397dea">
 
-<img src="" width="375" height="812" >
-<img src="" width="375" height="812" >
-<img src="" width="375" height="812" >
-<img src="" width="375" height="812" >
 
 
 #Task_3
