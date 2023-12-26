@@ -2,6 +2,7 @@
 
 #Task_1_SignUp_flow
 https://www.figma.com/file/nrhLbW6Wg2qoU3rkyBrbX3/SignUp-flow-Codsoft?type=design&node-id=0%3A1&mode=design&t=p6hzvT7rlmr8qCMF-1
+
 <img src="https://github.com/beshopauls/CodSoft/assets/73366045/30a32506-6169-466d-891d-2b12e8b85cc4" width="375" height="812" >
 <img src="https://github.com/beshopauls/CodSoft/assets/73366045/27bd2286-5f3d-4326-bc9e-822a130b57e4" width="375" height="812" >
 
