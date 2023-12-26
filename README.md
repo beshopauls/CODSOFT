@@ -1,4 +1,4 @@
-![menu1](https://github.com/beshopauls/CodSoft/assets/73366045/63fefe41-191b-4998-8fe4-67fd127be10f)# CodSoft
+
 
 #Task_1
 https://www.figma.com/file/nrhLbW6Wg2qoU3rkyBrbX3/SignUp-flow-Codsoft?type=design&node-id=0%3A1&mode=design&t=p6hzvT7rlmr8qCMF-1
